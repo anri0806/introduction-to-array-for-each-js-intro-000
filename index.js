@@ -1,5 +1,6 @@
 // Add your doToElementsInArray() function here:
-
+doToElementsInArray(animals, changeCompletely);
+ console.log(animals);
 
 // Add your changeCompletely() function here:
 function changeCompletely(element, index, array) {
